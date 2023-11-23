@@ -58,7 +58,7 @@
     "app-root-path": "^3.0.0",
     "dotenv": "^8.0.0",
     "dotenv-json": "^1.0.0",
-    "lambda-event-mock": "^1.5.0",
+    "lambda-event-mock": "github:FrankLedo/lambda-event-mock",
     "lambda-leak": "^2.0.0",
     "semver": "^6.1.1",
     "uuid": "^8.3.2",
