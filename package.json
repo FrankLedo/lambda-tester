@@ -47,10 +47,10 @@
   "devDependencies": {
     "@vandium/event-identifier": "^3.0.0",
     "aws-xray-sdk-core": "^2.3.3",
-    "chai": "^4.2.0",
-    "freshy": "^1.0.2",
+    "chai": "^4.3.10",
+    "freshy": "^1.0.4",
     "mocha": "^10.2.0",
-    "nyc": "^14.1.1",
+    "nyc": "^15.1.0",
     "proxyquire": "^2.1.0",
     "sinon": "^17.0.1"
   },
@@ -61,7 +61,7 @@
     "lambda-event-mock": "github:FrankLedo/lambda-event-mock",
     "lambda-leak": "^2.0.0",
     "semver": "^6.1.1",
-    "uuid": "^3.3.3",
+    "uuid": "^8.3.2",
     "vandium-utils": "^2.0.0"
   }
 }
